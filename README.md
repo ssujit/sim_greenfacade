@@ -22,7 +22,7 @@ Urban environments face significant challenges from heat island effects, air pol
 
 ## Methodology
 1. **LCZ Classification**: Using the LCZ generator and Google Earth to create training areas and classify the urban landscape.
-![LCZ Map of Dresden](asset\lcz_map.jpg)
+![LCZ Map of Dresden](asset/lcz_map.jpg)
 
 [LCZ Generator Factsheet](https://lcz-generator.rub.de/factsheets/bdacb8b7fafe468c530b37b1e0a7733314796422/bdacb8b7fafe468c530b37b1e0a7733314796422_factsheet.html)
 
