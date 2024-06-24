@@ -78,8 +78,8 @@ The results indicate significant improvements in microclimate parameters with th
 
 - **Dynamic PET (Physiological Equivalent Temperature)**.
 You can find two short videos demonstrating the simulation results at the following paths:
-1. [Trees & Green Facades vs. No Greenery](asset\trees&greenfacades_vs_No_greenery.mp4)
-2. [Trees & Green Facades vs. Only Trees](asset\trees&greenfacades_vs_onlytrees.mp4)
+1. [Trees & Green Facades vs. No Greenery](asset/trees&greenfacades_vs_No_greenery.mp4)
+2. [Trees & Green Facades vs. Only Trees](asset/trees&greenfacades_vs_onlytrees.mp4)
 
 
 ## Usage
