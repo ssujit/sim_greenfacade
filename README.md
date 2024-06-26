@@ -83,11 +83,11 @@ You can find two short videos demonstrating the simulation results at the follow
 
 
 ## Usage
-To run the simulations and analyses:
+To run the analysis:
 1. Clone this repository.
 2. Ensure all dependencies are installed (see below).
-3. Follow the scripts provided in the `/scripts` directory to set up and run ENVI-met simulations.
-4. Use the provided Python scripts for statistical analysis and data visualization.
+3. Find the scripts in the `/scripts` directory to set up and run ENVI-met simulations.
+4. Python scripts for statistical analysis and data visualization.
 
 ## Dependencies
 - ENVI-met software
@@ -100,7 +100,12 @@ To run the simulations and analyses:
 
 ## Contributors
 - **Amir Raoufi** - Main Author ([amir.raoufi@mailbox.tu-dresden.de](mailto:amir.raoufi@mailbox.tu-dresden.de))
-
+  
+## This work is jointly supervised by:
+-  1st Supervisor: [Prof. Dr. rer. pol. Irene Ring](https://tu-dresden.de/ihi-zittau/ess/die-professur/Head), IHI-Zittau, TU Dresden, Germany.
+-  2nd Supervisor: [Dr.-Ing. Sujit Kumar Sikder](https://www.ioer.de/en/institute/staff/sikder), Leibniz Institute of Ecological Urban and Regional Development (IOER), Dresden, Germany. 
+-  Mentor: [M.Sc. André Tiemann](https://tu-dresden.de/ihi-zittau/ess/die-professur/Team/Andre-Tiemann-M-Sc-1?set_language=en), IHI-Zittau, TU Dresden, Germany.
+-  
 ## License
 This project is licensed under the MIT License.
 
