@@ -105,7 +105,6 @@ To run the analysis:
 -  1st Supervisor: [Prof. Dr. rer. pol. Irene Ring](https://tu-dresden.de/ihi-zittau/ess/die-professur/Head), IHI-Zittau, TU Dresden, Germany.
 -  2nd Supervisor: [Dr.-Ing. Sujit Kumar Sikder](https://www.ioer.de/en/institute/staff/sikder), Leibniz Institute of Ecological Urban and Regional Development (IOER), Dresden, Germany. 
 -  Mentor: [M.Sc. André Tiemann](https://tu-dresden.de/ihi-zittau/ess/die-professur/Team/Andre-Tiemann-M-Sc-1?set_language=en), IHI-Zittau, TU Dresden, Germany.
--  
 ## License
 This project is licensed under the MIT License.
 
